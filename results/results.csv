@@ -1,0 +1,3 @@
+model,fold5_acc
+Pretrained+LogReg,0.905
+Scratch CNN,0.7
