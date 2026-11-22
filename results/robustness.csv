@@ -1,0 +1,46 @@
+model,snr,fold,acc
+Pretrained,20,1,0.895
+Scratch (none),20,1,0.435
+Scratch (all),20,1,0.45
+Pretrained,10,1,0.72
+Scratch (none),10,1,0.2925
+Scratch (all),10,1,0.22
+Pretrained,0,1,0.36
+Scratch (none),0,1,0.04
+Scratch (all),0,1,0.0425
+Pretrained,20,2,0.8675
+Scratch (none),20,2,0.4675
+Scratch (all),20,2,0.4425
+Pretrained,10,2,0.62
+Scratch (none),10,2,0.3125
+Scratch (all),10,2,0.235
+Pretrained,0,2,0.275
+Scratch (none),0,2,0.0725
+Scratch (all),0,2,0.0625
+Pretrained,20,3,0.855
+Scratch (none),20,3,0.4475
+Scratch (all),20,3,0.425
+Pretrained,10,3,0.6475
+Scratch (none),10,3,0.3175
+Scratch (all),10,3,0.2225
+Pretrained,0,3,0.3125
+Scratch (none),0,3,0.065
+Scratch (all),0,3,0.0525
+Pretrained,20,4,0.89
+Scratch (none),20,4,0.5425
+Scratch (all),20,4,0.4175
+Pretrained,10,4,0.7325
+Scratch (none),10,4,0.4325
+Scratch (all),10,4,0.205
+Pretrained,0,4,0.365
+Scratch (none),0,4,0.075
+Scratch (all),0,4,0.05
+Pretrained,20,5,0.8675
+Scratch (none),20,5,0.5
+Scratch (all),20,5,0.4325
+Pretrained,10,5,0.695
+Scratch (none),10,5,0.355
+Scratch (all),10,5,0.2075
+Pretrained,0,5,0.32
+Scratch (none),0,5,0.0975
+Scratch (all),0,5,0.045
